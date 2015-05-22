@@ -1,0 +1,84 @@
+Links to public datasets, by industry/sector
+
+Cross-disciplinary data repositories, data collections and data search engines:
+http://usgovxml.com
+http://aws.amazon.com/datasets
+http://databib.org
+http://datacite.org
+http://figshare.com
+http://linkeddata.org
+http://reddit.com/r/datasets
+http://thedatahub.org alias http://ckan.net
+http://quandl.com
+http://www.kdnuggets.com/datasets/index.html
+http://www.growmeme.com/overview
+http://enigma.io
+
+
+Single datasets and data repositories
+http://archive.ics.uci.edu/ml/
+http://crawdad.org/
+http://data.austintexas.gov
+http://data.cityofchicago.org
+http://data.govloop.com
+http://data.gov.uk/
+data.gov.in
+http://data.medicare.gov
+http://data.seattle.gov
+http://data.sfgov.org
+http://data.sunlightlabs.com
+https://datamarket.azure.com/
+https://developer.yahoo.com/geo/geoplanet/data/
+http://econ.worldbank.org/datasets
+http://en.wikipedia.org/wiki/Wikipedia:Database_download
+http://ftp.ncbi.nih.gov/
+http://gettingpastgo.socrata.com
+http://googleresearch.blogspot.pt/2006/08/all-our-n-gram-are-belong-to-you.html
+http://books.google.com/ngrams/
+http://medihal.archives-ouvertes.fr
+http://public.resource.org/
+http://rechercheisidore.fr
+http://snap.stanford.edu/data/index.html
+http://timetric.com/public-data/
+http://www2.jpl.nasa.gov/srtm
+http://www.archives.gov/research/alic/tools/online-databases.html
+http://www.bls.gov/
+http://www.crunchbase.com/
+http://www.dartmouthatlas.org/
+http://www.data.gov/
+http://www.datakc.org
+http://dbpedia.org
+https://delicious.com/jbaldwinconnect/DataSets
+http://www.faa.gov/data_research/
+http://www.factual.com/
+http://research.stlouisfed.org/fred2/
+http://www.freebase.com/
+http://www.google.com/publicdata/directory
+http://www.theguardian.com/data
+http://www.infochimps.com
+http://www.kaggle.com/
+http://build.kiva.org/
+http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/
+https://data.cityofnewyork.us/
+http://www.ordnancesurvey.co.uk/business-and-government/products/opendata-products.html
+http://www.bigfastblog.com/how-to-get-experience-working-with-large-datasets
+http://www.imdb.com/interfaces
+http://imat-relpred.yandex.ru/en/datasets
+http://www.dados.gov.pt/pt/catalogodados/catalogodados.aspx#sthash.2KrHu9mP.dpbs
+http://knoema.com
+http://daten.berlin.de/
+http://www.qunb.com
+http://databib.org/
+http://datacite.org/
+http://data.reegle.info/
+http://data.wien.gv.at/
+http://data.gov.bc.ca
+https://pslcdatashop.web.cmu.edu/ (interaction data in learning environments)
+http://www.icpsr.umich.edu/icpsrweb/CPES/ - Collaborative Psychiatric Epidemiology Surveys: (A collection of three national surveys focused on each of the major ethnic groups to study psychiatric illnesses and health services use)
+http://www.dati.gov.it
+http://dati.trentino.it
+http://www.databagg.com/
+dhttp://networkrepository.com - Network/ML data repository w/ visual interactive analytics
+
+
+sources: Quora (http://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
