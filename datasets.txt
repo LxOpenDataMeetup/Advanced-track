@@ -79,6 +79,6 @@ http://www.dati.gov.it
 http://dati.trentino.it
 http://www.databagg.com/
 dhttp://networkrepository.com - Network/ML data repository w/ visual interactive analytics
-
+https://archive.ics.uci.edu/ml/datasets.html
 
 sources: Quora (http://www.quora.com/Where-can-I-find-large-datasets-open-to-the-public)
