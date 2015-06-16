@@ -1,5 +1,5 @@
-# Machine-Learning-Meetup
-Possibly a Machine Learning Meetup in a sunny country named Portugal
+# Lisbon Open Data Meetup 
+
 
 We can have:
 
